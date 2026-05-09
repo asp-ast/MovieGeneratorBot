@@ -55,7 +55,7 @@ Telegram-бот, генерирующий случайный фильм с во�
 
 #### 1. Клонирование репозитория
 ```
-git clone https://github.com/asp-ast/MovieGeneratorBot.git
+git clone git@github.com:asp-ast/MovieGeneratorBot.git
 cd MovieGeneratorBot
 ```
 
